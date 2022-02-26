@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Movies>
+  <Movie id="1">
+    <Name>Лучший русский фильм</Name>
+    <Coordinatex>1</Coordinatex>
+    <Coordinatey>2.0</Coordinatey>
+    <Date>2022-02-15T12:37:41.263157100</Date>
+    <Oscars>3</Oscars>
+    <GoldenPalms>4</GoldenPalms>
+    <Genre>COMEDY</Genre>
+    <Mpaa>G</Mpaa>
+    <NameofCreator>Добронравов</NameofCreator>
+    <BirthofCreator>null</BirthofCreator>
+    <EyeColorofCreator>null</EyeColorofCreator>
+    <HairColorofCreator>BROWN</HairColorofCreator>
+  </Movie>
+  <Movie id="2">
+    <Name>Великий Гэтсби</Name>
+    <Coordinatex>3</Coordinatex>
+    <Coordinatey>3.0</Coordinatey>
+    <Date>2022-02-15T14:44:56.083110800</Date>
+    <Oscars>55</Oscars>
+    <GoldenPalms>5</GoldenPalms>
+    <Genre>MUSICAL</Genre>
+    <Mpaa>PG</Mpaa>
+    <NameofCreator>Лучший режиссер</NameofCreator>
+    <BirthofCreator>null</BirthofCreator>
+    <EyeColorofCreator>ORANGE</EyeColorofCreator>
+    <HairColorofCreator>BLACK</HairColorofCreator>
+  </Movie>
+  <Movie id="3">
+    <Name>Брат</Name>
+    <Coordinatex>465</Coordinatex>
+    <Coordinatey>33.0</Coordinatey>
+    <Date>2022-02-26T13:09:24.725849</Date>
+    <Oscars>3</Oscars>
+    <GoldenPalms>5</GoldenPalms>
+    <Genre>COMEDY</Genre>
+    <Mpaa>PG</Mpaa>
+    <NameofCreator>Балабанов</NameofCreator>
+    <BirthofCreator>1999-02-05T10:02</BirthofCreator>
+    <EyeColorofCreator>BLUE</EyeColorofCreator>
+    <HairColorofCreator>BLACK</HairColorofCreator>
+  </Movie>
+</Movies>
